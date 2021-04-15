@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![bigsave24](https://circleci.com/gh/bigsave24/machine-learning-microservice-API.svg?style=shield)](https://app.circleci.com/pipelines/github/bigsave24/machine-learning-microservice-API)
 
 # machine-learning-microservice-API
 

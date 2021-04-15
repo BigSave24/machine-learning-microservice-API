@@ -1,4 +1,4 @@
-[![BigSave24](https://circleci.com/gh/BigSave24/machine-learning-microservice-API.svg?style=svg)](https://circleci.com/gh/BigSave24/machine-learning-microservice-API)
+[![BigSave24](https://circleci.com/gh/BigSave24/machine-learning-microservice-API.svg?style=shield)](https://circleci.com/gh/BigSave24/machine-learning-microservice-API)
 
 # machine-learning-microservice-API
 

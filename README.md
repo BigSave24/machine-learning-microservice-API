@@ -38,39 +38,47 @@ This project will operationalize a machine learning microservice API using a pre
 ### Setup Environment
 
 Run the install command from the Makefile to setup the environment.
+
 `make install`
 
 ### Lint Test
 
 Run the lint command from the Makefile to analyze the Dockerfile and Python code.
+
 `make lint`
 
 ### Create Container Image
 
 Run the docker script to create the Docker container image.
+
 `./run_docker.sh`
 
 ### Test Prediction
 
 Run the make prediction script to test the container's functionality.
+
 `./make_prediction.sh`
 
 ### Upload Container Image
 
 Run the upload docker script to push the image to Docker Hub.
+
 `./upload_docker.sh`
 
 ### Start Kubernetes Cluster
 
 Start the Kubernetes cluster service
+
 `minikube start`
 
 ### Create Kubernetes Pod and Deploy Container
 
 Run the run the Kubernetes script create a pod and deploy a docker container to the pod.
+
 `./run_kubernetes.sh`
 
 ### Teardown Kubernetes Cluster
 
 Delee the Kubernetes cluster and container.
+
 `minikube delete`
